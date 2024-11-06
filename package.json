@@ -1,0 +1,15 @@
+{
+  "name": "scraping-formasi-cpns-2024",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "github.com/triagung128",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@json2csv/plainjs": "^7.0.6"
+  }
+}
